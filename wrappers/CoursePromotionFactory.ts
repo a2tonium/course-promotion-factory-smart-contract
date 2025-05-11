@@ -1,0 +1,1 @@
+export * from '../build/CoursePromotionFactory/tact_CoursePromotionFactory';
